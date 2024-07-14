@@ -1,0 +1,10 @@
+.heading {
+  text-align: center;
+  font-size: 50px;
+  color: white;
+  border: 1px solid black;
+}
+
+.top-heading {
+  background-color: hsl(0, 37%, 45%);
+}
